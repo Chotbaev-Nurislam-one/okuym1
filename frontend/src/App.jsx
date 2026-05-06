@@ -17,7 +17,7 @@ import Theory from "./pages/Theory";
 import Layout from "./components/Layout";
 
 // Настройка axios
-axios.defaults.baseURL = "https://okuym1-o66x.onrender.com/api";
+axios.defaults.baseURL = "https://okuym1-veo0.onrender.com/api";
 
 function App() {
   const [user, setUser] = useState(null);
